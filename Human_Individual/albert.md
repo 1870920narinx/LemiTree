@@ -42,6 +42,6 @@ goed voor je
 ## **Sources**
 [//]: <> (BO-sources)
 
-- (1)	[google] (www.google.com)
+- (1)	[google] (https:www.google.com)
 
 [//]: <> (EO-sources)
