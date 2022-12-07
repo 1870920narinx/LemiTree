@@ -23,6 +23,9 @@
 ## **Why**
 [//]: <> (BO-why)
 
+### *Benefit 1*
+why voordeel
+
 [//]: <> (EO-why)
 ## **How**
 [//]: <> (BO-how)
