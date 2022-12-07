@@ -5,6 +5,7 @@
 
 ## **Infographic**
 [//]: <> (BO-infographic)
+* test info
 
 [//]: <> (EO-infographic)
 ## **Video**
