@@ -1,0 +1,1 @@
+Within General Tips, you'll find an overview of general factors in our life that have a major influence on the quality of our sleep. Some of these are domains you can find in other parts of this database. When this is the case, you will see it in the 'how' section.
