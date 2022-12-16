@@ -38,7 +38,7 @@ why voordeel
 [//]: <> (BO-why-negative)
 
 ### *Negative 1*
-why nadeel
+negatief
 
 [//]: <> (EO-why-negative)
 ## **How**
