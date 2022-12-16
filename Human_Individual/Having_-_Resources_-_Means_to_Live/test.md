@@ -24,11 +24,20 @@ Test intro lorem ipsum
 [//]: <> (EO-intro)
 ## **Why**
 [//]: <> (BO-why)
+why intro
+
+[//]: <> (EO-why)
+## **Benefit**
+[//]: <> (BO-why-benefit)
 
 ### *Benefit 1*
 why voordeel
 
-[//]: <> (EO-why)
+[//]: <> (EO-why-benefit)
+## **Negative**
+[//]: <> (BO-why-negative)
+
+[//]: <> (EO-why-negative)
 ## **How**
 [//]: <> (BO-how)
 
