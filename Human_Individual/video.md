@@ -26,13 +26,16 @@ Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem
 ## **Why**
 [//]: <> (BO-why)
 
-### *Benefit 1*
-Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen.
-
-### *Benefit 2*
-Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen.
 
 [//]: <> (EO-why)
+## **Benefit**
+[//]: <> (BO-why-benefit)
+
+[//]: <> (EO-why-benefit)
+## **Negative**
+[//]: <> (BO-why-negative)
+
+[//]: <> (EO-why-negative)
 ## **How**
 [//]: <> (BO-how)
 
