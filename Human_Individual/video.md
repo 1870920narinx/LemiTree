@@ -1,11 +1,11 @@
-[//]: <> (FW2,TH1M45,X10W2,EPHMW)
+[//]: <> (FD1,TH1,X5D1,EPAMA)
 
 
 # **video**
 
 ## **Infographic**
 [//]: <> (BO-infographic)
-* www.info-link.com
+* www.ggz.nl
 
 [//]: <> (EO-infographic)
 ## **Video**
@@ -20,20 +20,32 @@
 [//]: <> (EO-audio)
 ## **Intro**
 [//]: <> (BO-intro)
-Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus
+This is the tactic that quicksilver uses to train
 
 [//]: <> (EO-intro)
 ## **Why**
 [//]: <> (BO-why)
-
+So that you can be speedy
 
 [//]: <> (EO-why)
 ## **Benefit**
 [//]: <> (BO-why-benefit)
 
+### *Benefit 1*
+Speed
+
+### *Benefit 2*
+Agility
+
+### *Benefit 3*
+Lightning reflexes
+
 [//]: <> (EO-why-benefit)
 ## **Negative**
 [//]: <> (BO-why-negative)
+
+### *Negative 1*
+You will look like a starved marathon runner
 
 [//]: <> (EO-why-negative)
 ## **How**
